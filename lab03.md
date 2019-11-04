@@ -1,5 +1,5 @@
 # *My name is Mohammad alsboul* 
-## graduated from universty of jordan
+## graduated from university of jordan
 ### i am 23 year old
  ### _tabel of contants_
 name  | link on github
